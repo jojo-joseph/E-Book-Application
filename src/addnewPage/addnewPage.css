@@ -1,0 +1,24 @@
+.mainaddnewpageDiv{
+    background-color: #e8e8e8;
+    height: 100%;
+    padding-right: 15px;
+}
+.PageTitle{
+    font-size: larger;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.titleinputboxdiv{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.mainInputFiled{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.buttondiv{
+    margin-top: 45px;
+    margin-left: 75%;
+    display: flex;
+    padding-left: 25px;
+}

@@ -1,0 +1,16 @@
+.mainSidebarBox{
+    top:30%;
+    text-align: center;
+    height: 50px;
+    max-height: 70px;
+    color: black;
+    background-color: #ebebeb;
+    width: 100%;
+    padding-top: 15px;
+}
+.line{
+    background-color: black;
+    background-size:100% .5px;
+    height:2px;
+    width: 100%;
+}

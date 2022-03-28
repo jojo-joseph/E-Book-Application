@@ -1,0 +1,25 @@
+.mainContentHome{
+    background-color: #e8e8e8;  
+    height: 100%;
+}
+.mainHomeContent1{
+    margin-left: 20px;
+    
+}
+.mainheadinghome{
+    padding-top: 25px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+.content{
+    margin-top: 25px;
+    font-size: large;
+    line-height: 1.7;
+}
+.addnewPageButton{
+    text-align: right ;
+    margin-right: 25px;
+    font-weight: 600;
+    font-size: larger;
+}

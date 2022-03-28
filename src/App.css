@@ -1,0 +1,11 @@
+.mainHome{
+  display: flex;
+  width: 100%;
+}
+.sideBarHome{
+  width: 15% ;
+  color: antiquewhite;
+}
+.home{
+  width: 85%;
+}
